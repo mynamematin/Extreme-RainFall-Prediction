@@ -4,9 +4,14 @@
 
 ## Description
 
-This repository contains the code for a Rainfall Prediction model using Convolutional Long Short-Term Memory (ConvLSTM) algorithm. The model is designed to forecast rainfall based on historical rainfall and sea surface temperature (SST) data.
 
-The ConvLSTM model is a deep learning algorithm that learns the temporal dependencies in sequential data, making it suitable for spatiotemporal analysis like predicting weather patterns.
+This repository contains the code for my MTech project, Rainfall Prediction using Convolutional Long Short-Term Memory (ConvLSTM) algorithm. The project was done in collaboration with Dr. Roxy Mathew Koll at the Indian Institute of Tropical Meteorology (IITM).
+
+The aim of this project was to develop a model that can accurately predict rainfall based on historical rainfall and sea surface temperature (SST) data. The ConvLSTM model is a deep learning algorithm that captures temporal dependencies in sequential data, making it well-suited for spatiotemporal analysis like weather forecasting.
+
+The project explores the use of ConvLSTM to forecast rainfall values for future time periods and identify extreme rainfall events during the monsoon season. The predictions obtained from the ConvLSTM model can have important implications for climate science research and inform policy interventions to mitigate the impacts of extreme weather phenomena.
+
+The project serves as a valuable contribution to the domain of climate science and showcases the potential of deep learning techniques in addressing complex spatiotemporal prediction tasks.
 
 ## Key Features
 
@@ -18,7 +23,7 @@ The ConvLSTM model is a deep learning algorithm that learns the temporal depende
 ## Installation
 
 Clone this repository to your local machine:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mynamematin/Extreme-RainFall-Prediction.git
 
 
 ## Requirements
@@ -54,7 +59,7 @@ Contributions are welcome! If you have any ideas or improvements for the project
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [@matin](LICENSE).
 
 ## Acknowledgements
 
