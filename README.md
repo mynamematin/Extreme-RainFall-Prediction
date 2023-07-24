@@ -61,9 +61,8 @@ Contributions are welcome! If you have any ideas or improvements for the project
 
 This project is licensed under the [@matin](LICENSE).
 
-## Acknowledgements
-
-Special thanks to [Any collaborators or resources you want to acknowledge].
-
+---
+*Author:* [Matin Ahmed]
+*Email:* [matinahmed000@gmail.com]
 
 
