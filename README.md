@@ -1,6 +1,6 @@
 # Rainfall Prediction using ConvLSTM
 
-![Project Image](MonsoonPred2017(1).png) 
+![Project Image](SST.png) 
 ## Description
 
 
@@ -40,17 +40,23 @@ To install the required packages, run: pip install pandas numpy tensorflow matpl
    - Remove intraseasonal variabilities below 30 days and above 60 days.
    - Select data for specific months and normalize the data.
    - Perform exponential space transformation.
+   - ![Project Image](MHW2017_intens.png)
+   - ![Project Image](CombinedSSTRF17.png)
 
 2. Train the model:
    - Set up the input and output sequences for training.
    - Train the ConvLSTM model using historical rainfall and SST data.
+   - ![Project Image](ConvLSTM.png)
 
 3. Evaluate the model:
    - Compare the predicted rainfall values with actual values.
    - Assess the accuracy and reliability of the predictions.
+   - ![Project Image](Model_Performance.png)
 
 4. Make predictions:
    - Use the trained model to forecast rainfall for future time periods.
+   - ![Project Image](Model_Output.png)
+   - ![Project Image](MonsoonPred2017(1).png)
 
 ## Contributing
 
