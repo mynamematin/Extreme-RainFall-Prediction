@@ -1,6 +1,6 @@
 # Rainfall Prediction using ConvLSTM
 
-![Project Image](SST.png) 
+![Project Image](SST 40 year Mean 1982-2021.png) 
 ## Description
 
 
