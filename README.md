@@ -1,7 +1,6 @@
 # Rainfall Prediction using ConvLSTM
 
-![Project Image](project_image.png) (Optional: You can add an image that represents your project here)
-
+![Project Image](MonsoonPred2017(1).png) 
 ## Description
 
 
